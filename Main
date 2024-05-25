@@ -1,0 +1,31 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We Didn't Start the Fire - APUSH Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .title {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .main-title {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        .sub-title {
+            font-size: 18px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">
+        <h1 class="main-title">We Didn't Start the Fire</h1>
+        <p class="sub-title">APUSH Project</p>
+    </div>
+</body>
+</html>
